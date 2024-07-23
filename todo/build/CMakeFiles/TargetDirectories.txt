@@ -1,0 +1,10 @@
+/home/at0m/Todo/todo/build/CMakeFiles/todo.dir
+/home/at0m/Todo/todo/build/CMakeFiles/todo_qmlimportscan.dir
+/home/at0m/Todo/todo/build/CMakeFiles/edit_cache.dir
+/home/at0m/Todo/todo/build/CMakeFiles/rebuild_cache.dir
+/home/at0m/Todo/todo/build/CMakeFiles/list_install_components.dir
+/home/at0m/Todo/todo/build/CMakeFiles/install.dir
+/home/at0m/Todo/todo/build/CMakeFiles/install/local.dir
+/home/at0m/Todo/todo/build/CMakeFiles/install/strip.dir
+/home/at0m/Todo/todo/build/CMakeFiles/todo_autogen_timestamp_deps.dir
+/home/at0m/Todo/todo/build/CMakeFiles/todo_autogen.dir
